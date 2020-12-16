@@ -14,7 +14,7 @@ methods:
 
   - `all()` - Retrieve all images.
   - `get()` - Get a specific image, by its fingerprint.
-  - `get_by_alias()` - Ger a specific image using its alias.
+  - `get_by_alias()` - Get a specific image using its alias.
 
 And create through the following methods, there's also a copy method on an
 image:
